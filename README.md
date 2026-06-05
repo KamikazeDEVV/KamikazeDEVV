@@ -1,16 +1,16 @@
-## Kamikaze Developer
+# Kamikaze Developer
 
-# 📜About-Me
+## 📜About-Me
 
 Hello! I'm **Kami**, a **Roblox developer with over a year of experience** in Luau scripting and game development. I focus on building clean, optimized, and scalable systems, ranging from gameplay mechanics and UI solutions to data handling and client-server architectures. My goal is to deliver reliable, high-performance code that helps create engaging and polished Roblox experiences.
 
-# 📝Portfolio
+## 📝Portfolio
 
 In my portfolio you can see everything about me, schedule, projects, payments, and even more!
 
 You can acess to my portfolio through this link: 
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Languages
 
 <table>
   <tr>
@@ -23,6 +23,7 @@ You can acess to my portfolio through this link:
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
     </td>
     <td valign="top" width="50%">
       <h3>Ferramentas & DB</h3>
