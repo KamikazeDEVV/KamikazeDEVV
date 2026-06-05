@@ -14,6 +14,9 @@ You can acess to my portfolio through this link:
   <tr>
     <td valign="top" width="50%">
       <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
+      <a href="https://www.roblox.com/users/2876632785/profile" target="_blank">
+        <img src="https://img.shields.io/badge/Roblox_Profile-111111?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Profile" />
+      </a>
     </td>
 </table>
 
