@@ -8,7 +8,7 @@ Hello! I'm **Kami**, a **Roblox developer with over a year of experience** in Lu
 
 In my portfolio you can see everything about me, schedule, projects, payments, and even more!
 
-You can acess to my portfolio through this link: https://kamidevv.page.gd/
+You can acess to my portfolio through this link: https://kamidev.page.gd/
 
 <table>
   <tr>
