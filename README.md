@@ -10,8 +10,6 @@ In my portfolio you can see everything about me, schedule, projects, payments, a
 
 You can acess to my portfolio through this link: 
 
-## 🚀 Technologies & Tools
-
 <table>
   <tr>
     <td valign="top" width="50%">
