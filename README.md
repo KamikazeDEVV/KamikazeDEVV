@@ -15,7 +15,6 @@ You can acess to my portfolio through this link:
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Languages</h3>
       <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
     </td>
 </table>
