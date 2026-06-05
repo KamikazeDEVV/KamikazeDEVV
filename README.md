@@ -19,13 +19,3 @@ You can acess to my portfolio through this link:
       </a>
     </td>
 </table>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://www.roblox.com/users/2876632785/profile" target="_blank">
-        <img src="https://img.shields.io/badge/Roblox_Profile-111111?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Profile" />
-      </a>
-    </td>
-  </tr>
-</table>
